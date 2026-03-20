@@ -1,4 +1,4 @@
-## 🔹 1. Instrucțiuni pentru rularea proiectului
+## 1. Instrucțiuni pentru rularea proiectului
 
 ### Cerințe:
 
@@ -39,7 +39,7 @@
    * **Settings → Permalinks → Save Changes**
 
 
-## 🔹 2. Descrierea lucrării de laborator
+## 2. Descrierea lucrării de laborator
 
 Scopul acestui laborator este dezvoltarea unui plugin WordPress personalizat pentru gestionarea notițelor.
 
@@ -58,7 +58,7 @@ Funcționalitățile implementate includ:
 Acest laborator demonstrează cum WordPress poate fi extins pentru a crea aplicații personalizate.
 
 
-## 🔹 3. Documentație succintă pentru plugin
+## 3. Documentație succintă pentru plugin
 
 ### Custom Post Type: `note`
 
@@ -120,7 +120,7 @@ Atribute disponibile:
 * `before_date` – filtrare după dată
 
 
-## 🔹 4. Exemple de utilizare
+## 4. Exemple de utilizare
 
 ### Afișarea tuturor notițelor:
 
@@ -164,7 +164,7 @@ Atribute disponibile:
 ```
 
 
-## 🔹 5. Observații finale
+## 5. Observații finale
 
 * Pluginul este extensibil și poate fi adaptat pentru:
 
